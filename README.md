@@ -7,9 +7,7 @@ It showcases smooth and visually appealing transition effects like **fade**, **s
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://saraz1234.github.io/Image-Transition/)  
-*(Replace with your actual GitHub Pages link)*
-
+👉 https://saraz1234.github.io/Image-transition/
 ---
 
 ## 🧠 About the Project
