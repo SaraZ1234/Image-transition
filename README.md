@@ -1,4 +1,4 @@
-# 🖼️ Image Transition Web App
+## 🖼️ Image Transition Web App
 
 A lightweight and responsive image transition project built with **HTML**, **CSS**, and **JavaScript**.  
 It showcases smooth and visually appealing transition effects like **fade**, **slide**, or **zoom** on images triggered by user actions or autoplay.
